@@ -1,0 +1,17 @@
+body {
+	font-size: 20px;
+	margin: 30px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+p {
+	color: blueviolet;
+}
